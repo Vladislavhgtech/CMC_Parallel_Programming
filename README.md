@@ -8,4 +8,8 @@
 
 ## Задание вычислить сумму ряда с использованием MPI
 
-Исходный код лежит в файлах onethread/main.c, openMP/main.c, mpi/main.c. Чтобы изменить считаемый ряд, необходимов в каждом из этих файлов найти и изменить функцию f(unsigned long long int k).
+Исходный код лежит в файлах:
+
+CMC_Parallel_Programming/CMCSumCons/ - последовательная версия;
+CMC_Parallel_Programming/CMCSumMPI/ - параллельная версия;
+CMC_Parallel_Programming/Отчет .pdf - отчет

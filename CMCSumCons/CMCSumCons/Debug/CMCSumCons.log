@@ -1,0 +1,6 @@
+﻿  CMCSumCons.cpp
+C:\Users\vld85\source\repos\CMCSumCons\CMCSumCons\CMCSumCons.cpp(9,13): warning C4244: аргумент: преобразование "unsigned __int64" в "double", возможна потеря данных
+C:\Users\vld85\source\repos\CMCSumCons\CMCSumCons\CMCSumCons.cpp(9,30): warning C4244: аргумент: преобразование "unsigned __int64" в "double", возможна потеря данных
+C:\Users\vld85\source\repos\CMCSumCons\CMCSumCons\CMCSumCons.cpp(9,53): warning C4244: аргумент: преобразование "unsigned __int64" в "double", возможна потеря данных
+C:\Users\vld85\source\repos\CMCSumCons\CMCSumCons\CMCSumCons.cpp(14,14): warning C4083: требуется "("; обнаружен идентификатор "count"
+  CMCSumCons.vcxproj -> C:\Users\vld85\source\repos\CMCSumCons\Debug\CMCSumCons.exe

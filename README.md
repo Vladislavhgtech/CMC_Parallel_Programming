@@ -10,6 +10,8 @@
 
 Исходный код лежит в файлах:
 
-CMC_Parallel_Programming/CMCSumCons/ - последовательная версия;
-CMC_Parallel_Programming/CMCSumMPI/ - параллельная версия;
-CMC_Parallel_Programming/Отчет .pdf - отчет
+###### CMC_Parallel_Programming/CMCSumCons/ - последовательная версия;
+
+###### CMC_Parallel_Programming/CMCSumMPI/ - параллельная версия;
+
+###### CMC_Parallel_Programming/Отчет .pdf - отчет
